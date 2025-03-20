@@ -1,0 +1,53 @@
+{
+    "development": {
+        "username": "root",
+        "password": "",
+        "database": "absensi_sma_9",
+        "host": "localhost",
+        "dialect": "mysql",
+        "define": {
+            "charset": "utf8",
+            "dialectOptions": {
+                "collate": "utf8_general_ci"
+            }
+        },
+        "dialectOptions": {
+            "useUTC": true
+          },
+          "timezone": "+07:00"
+    },
+    "test": {
+        "username": "root",
+        "password": "",
+        "database": "absensi_sma_9",
+        "host": "localhost",
+        "dialect": "mysql",
+        "define": {
+            "charset": "utf8",
+            "dialectOptions": {
+                "collate": "utf8_general_ci"
+            }
+        },
+        "dialectOptions": {
+            "useUTC": true
+          },
+          "timezone": "+07:00"
+    },
+    "production": {
+        "username": "root",
+        "password": "",
+        "database": "absensi_sma_9",
+        "host": "localhost",
+        "dialect": "mysql",
+        "define": {
+            "charset": "utf8",
+            "dialectOptions": {
+                "collate": "utf8_general_ci"
+            }
+        },
+        "dialectOptions": {
+            "useUTC": true
+          },
+          "timezone": "+07:00"
+    }
+}
