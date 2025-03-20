@@ -8,7 +8,7 @@ node_modules/
 dist/
 
 #config
-config/** */
+config/*
 
 photo/sk/
 
