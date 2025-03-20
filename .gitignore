@@ -11,6 +11,7 @@ dist/
 config/*
 
 photo/sk/
+photo/
 
 public/assets
 public/img
